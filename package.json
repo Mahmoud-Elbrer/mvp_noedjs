@@ -19,11 +19,6 @@
     "lodash": "^4.17.21",
     "mongoose": "^6.0.14",
     "morgan": "~1.9.1",
-    "order-id": "^2.1.2",
-    "paypal-rest-sdk": "^1.8.1",
-    "sharp": "^0.30.4",
-    "util": "^0.12.4",
-    "uuid": "^9.0.0",
     "winston": "^3.3.3",
     "winston-mongodb": "^5.0.7"
   }
