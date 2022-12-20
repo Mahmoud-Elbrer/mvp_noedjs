@@ -19,7 +19,7 @@ exports.signIn = async (req, res, next) => {
 };
 
 exports.signUp = async function (req, res, next) {
-  console.log(req.body);
+
 
   const { error } = validateSignUp(req.body);
   if (error) return res.status(400).send(error.details[0].message);
